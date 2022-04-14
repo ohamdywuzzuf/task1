@@ -1,3 +1,4 @@
 {
-    "baseUrl": "https://employer.wuzzuf.basharsys.com/"
+    "baseUrl": "https://employer.wuzzuf.basharsys.com/",
+    "chromeWebSecurity": false
 }
