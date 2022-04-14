@@ -1,0 +1,4 @@
+\cypress\downloads\*
+\cypress\plugins\*
+\cypress\support\*
+\node_modules\*
