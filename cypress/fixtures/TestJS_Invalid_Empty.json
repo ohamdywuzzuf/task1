@@ -1,0 +1,6 @@
+{
+    "firstName":"Invalid",
+    "lastName":"Empty",
+    "email": "invalid@empty.com",
+    "password":"12345678"
+  }
