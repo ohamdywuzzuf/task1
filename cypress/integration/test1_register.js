@@ -1,6 +1,5 @@
 import Register from '../support/pageclasses/Register.js';
 import CareerInterests from '../support/pageclasses/Career-Interests.js';
-import { nth } from 'lodash';
 const { getMaxListeners } = require("process");
 var randomemail1 = 'testJS' + Math.floor(Math.random() * 1000000 ) + '@gmail.com'
 var randomemail2 = 'testJS' + Math.floor(Math.random() * 1000000 ) + '@gmail.com'
@@ -30,6 +29,28 @@ describe('Sign up JS Step 1 Full Test', function() {
         .fillEmail(randomemail1)
         .fillPassword(this.credentials.password)
         cy.get('button[type=submit].css-6lejne').click()
+
+        //heba's code
+        // if ($body.find('.css-q79hb6').length) {
+       
+        //     return '.banner'
+        //      cy.log('here')
+        //     cy.get(':nth-child(2) > .e1ydi3lf9').click();
+      
+        //   }
+      
+        //omar code
+        // cy.get('body').then($body => {
+        // if ($body.find('.css-q79hb6').length) {
+        
+        //     cy.log('if true')
+        // cy.contains('Skip and Fill Manually').click();
+        // }
+        //   else{
+        // cy.log('else true')
+        // }
+        // })
+
         pageCareerInterest
         .Submit()
         .CareerLevelRequired()
