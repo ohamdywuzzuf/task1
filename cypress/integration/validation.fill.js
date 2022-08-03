@@ -6,12 +6,21 @@ describe('Sign up form validate', function() {
     cy.visit("register");
 //visit login page
 //    it('Click on each field for empty input', function() { --- need help with 'it' function
+cy.intercept(
+    {method: 'GET', url: '/api/look-ups?*'},
+    {fixture:'careerinterest.json'}
+)
         cy.get('input[name=firstname]').type('Omar')
         cy.get('input[name=lastname]').type('Hamdy')
         cy.get('input[name=email]').type(randomemail,{replace:true})
         cy.get('input[name=password]').type('omarhamdy')
         cy.get('button[type=submit].css-6lejne').click()
-        cy.wait(5000)
         cy.url().should('contain', '/setup')
+        cy.get('#react-select-2--value > .Select-placeholder').type('a')
+        cy.intercept(
+            {method: 'GET', url: '/api/lookups/job-titles*'},
+            {fixture:'job_titles.json'}
+        )
+
 })
 })

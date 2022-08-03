@@ -1,0 +1,5953 @@
+{
+    "data": {
+        "type": "lookUps",
+        "relationships": {
+            "currency": {
+                "data": [
+                    {
+                        "type": "currency",
+                        "id": "1"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "2"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "3"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "4"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "5"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "6"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "7"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "8"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "9"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "10"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "11"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "12"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "13"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "14"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "15"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "16"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "17"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "18"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "19"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "20"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "21"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "22"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "23"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "24"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "25"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "26"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "27"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "28"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "29"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "30"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "31"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "32"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "33"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "34"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "35"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "36"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "37"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "38"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "39"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "40"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "41"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "42"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "43"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "44"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "45"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "46"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "47"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "48"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "49"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "50"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "51"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "52"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "53"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "54"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "55"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "56"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "57"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "58"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "59"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "60"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "61"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "62"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "63"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "64"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "65"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "66"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "67"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "68"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "69"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "70"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "71"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "72"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "73"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "74"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "75"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "76"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "77"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "78"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "79"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "80"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "81"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "82"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "83"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "84"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "85"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "86"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "87"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "88"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "89"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "90"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "91"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "92"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "93"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "94"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "95"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "96"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "97"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "98"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "99"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "100"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "101"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "102"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "103"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "104"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "105"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "106"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "107"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "108"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "109"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "110"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "111"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "112"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "113"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "114"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "115"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "116"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "117"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "118"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "119"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "120"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "121"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "122"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "123"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "124"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "125"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "126"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "127"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "128"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "129"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "130"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "131"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "132"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "133"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "134"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "135"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "136"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "137"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "138"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "139"
+                    },
+                    {
+                        "type": "currency",
+                        "id": "140"
+                    }
+                ]
+            },
+            "country": {
+                "data": [
+                    {
+                        "type": "country",
+                        "id": "1"
+                    },
+                    {
+                        "type": "country",
+                        "id": "2"
+                    },
+                    {
+                        "type": "country",
+                        "id": "3"
+                    },
+                    {
+                        "type": "country",
+                        "id": "4"
+                    },
+                    {
+                        "type": "country",
+                        "id": "7"
+                    },
+                    {
+                        "type": "country",
+                        "id": "10"
+                    },
+                    {
+                        "type": "country",
+                        "id": "11"
+                    },
+                    {
+                        "type": "country",
+                        "id": "13"
+                    },
+                    {
+                        "type": "country",
+                        "id": "14"
+                    },
+                    {
+                        "type": "country",
+                        "id": "15"
+                    },
+                    {
+                        "type": "country",
+                        "id": "16"
+                    },
+                    {
+                        "type": "country",
+                        "id": "17"
+                    },
+                    {
+                        "type": "country",
+                        "id": "18"
+                    },
+                    {
+                        "type": "country",
+                        "id": "19"
+                    },
+                    {
+                        "type": "country",
+                        "id": "20"
+                    },
+                    {
+                        "type": "country",
+                        "id": "21"
+                    },
+                    {
+                        "type": "country",
+                        "id": "23"
+                    },
+                    {
+                        "type": "country",
+                        "id": "25"
+                    },
+                    {
+                        "type": "country",
+                        "id": "26"
+                    },
+                    {
+                        "type": "country",
+                        "id": "27"
+                    },
+                    {
+                        "type": "country",
+                        "id": "28"
+                    },
+                    {
+                        "type": "country",
+                        "id": "30"
+                    },
+                    {
+                        "type": "country",
+                        "id": "31"
+                    },
+                    {
+                        "type": "country",
+                        "id": "32"
+                    },
+                    {
+                        "type": "country",
+                        "id": "33"
+                    },
+                    {
+                        "type": "country",
+                        "id": "34"
+                    },
+                    {
+                        "type": "country",
+                        "id": "35"
+                    },
+                    {
+                        "type": "country",
+                        "id": "37"
+                    },
+                    {
+                        "type": "country",
+                        "id": "38"
+                    },
+                    {
+                        "type": "country",
+                        "id": "39"
+                    },
+                    {
+                        "type": "country",
+                        "id": "40"
+                    },
+                    {
+                        "type": "country",
+                        "id": "43"
+                    },
+                    {
+                        "type": "country",
+                        "id": "45"
+                    },
+                    {
+                        "type": "country",
+                        "id": "46"
+                    },
+                    {
+                        "type": "country",
+                        "id": "47"
+                    },
+                    {
+                        "type": "country",
+                        "id": "48"
+                    },
+                    {
+                        "type": "country",
+                        "id": "49"
+                    },
+                    {
+                        "type": "country",
+                        "id": "50"
+                    },
+                    {
+                        "type": "country",
+                        "id": "51"
+                    },
+                    {
+                        "type": "country",
+                        "id": "52"
+                    },
+                    {
+                        "type": "country",
+                        "id": "54"
+                    },
+                    {
+                        "type": "country",
+                        "id": "55"
+                    },
+                    {
+                        "type": "country",
+                        "id": "56"
+                    },
+                    {
+                        "type": "country",
+                        "id": "57"
+                    },
+                    {
+                        "type": "country",
+                        "id": "58"
+                    },
+                    {
+                        "type": "country",
+                        "id": "59"
+                    },
+                    {
+                        "type": "country",
+                        "id": "60"
+                    },
+                    {
+                        "type": "country",
+                        "id": "61"
+                    },
+                    {
+                        "type": "country",
+                        "id": "63"
+                    },
+                    {
+                        "type": "country",
+                        "id": "64"
+                    },
+                    {
+                        "type": "country",
+                        "id": "65"
+                    },
+                    {
+                        "type": "country",
+                        "id": "67"
+                    },
+                    {
+                        "type": "country",
+                        "id": "68"
+                    },
+                    {
+                        "type": "country",
+                        "id": "69"
+                    },
+                    {
+                        "type": "country",
+                        "id": "70"
+                    },
+                    {
+                        "type": "country",
+                        "id": "71"
+                    },
+                    {
+                        "type": "country",
+                        "id": "73"
+                    },
+                    {
+                        "type": "country",
+                        "id": "76"
+                    },
+                    {
+                        "type": "country",
+                        "id": "77"
+                    },
+                    {
+                        "type": "country",
+                        "id": "78"
+                    },
+                    {
+                        "type": "country",
+                        "id": "79"
+                    },
+                    {
+                        "type": "country",
+                        "id": "80"
+                    },
+                    {
+                        "type": "country",
+                        "id": "81"
+                    },
+                    {
+                        "type": "country",
+                        "id": "82"
+                    },
+                    {
+                        "type": "country",
+                        "id": "83"
+                    },
+                    {
+                        "type": "country",
+                        "id": "84"
+                    },
+                    {
+                        "type": "country",
+                        "id": "85"
+                    },
+                    {
+                        "type": "country",
+                        "id": "86"
+                    },
+                    {
+                        "type": "country",
+                        "id": "87"
+                    },
+                    {
+                        "type": "country",
+                        "id": "88"
+                    },
+                    {
+                        "type": "country",
+                        "id": "90"
+                    },
+                    {
+                        "type": "country",
+                        "id": "91"
+                    },
+                    {
+                        "type": "country",
+                        "id": "92"
+                    },
+                    {
+                        "type": "country",
+                        "id": "93"
+                    },
+                    {
+                        "type": "country",
+                        "id": "94"
+                    },
+                    {
+                        "type": "country",
+                        "id": "95"
+                    },
+                    {
+                        "type": "country",
+                        "id": "96"
+                    },
+                    {
+                        "type": "country",
+                        "id": "98"
+                    },
+                    {
+                        "type": "country",
+                        "id": "99"
+                    },
+                    {
+                        "type": "country",
+                        "id": "100"
+                    },
+                    {
+                        "type": "country",
+                        "id": "101"
+                    },
+                    {
+                        "type": "country",
+                        "id": "102"
+                    },
+                    {
+                        "type": "country",
+                        "id": "103"
+                    },
+                    {
+                        "type": "country",
+                        "id": "104"
+                    },
+                    {
+                        "type": "country",
+                        "id": "106"
+                    },
+                    {
+                        "type": "country",
+                        "id": "107"
+                    },
+                    {
+                        "type": "country",
+                        "id": "108"
+                    },
+                    {
+                        "type": "country",
+                        "id": "109"
+                    },
+                    {
+                        "type": "country",
+                        "id": "110"
+                    },
+                    {
+                        "type": "country",
+                        "id": "111"
+                    },
+                    {
+                        "type": "country",
+                        "id": "112"
+                    },
+                    {
+                        "type": "country",
+                        "id": "113"
+                    },
+                    {
+                        "type": "country",
+                        "id": "114"
+                    },
+                    {
+                        "type": "country",
+                        "id": "117"
+                    },
+                    {
+                        "type": "country",
+                        "id": "118"
+                    },
+                    {
+                        "type": "country",
+                        "id": "119"
+                    },
+                    {
+                        "type": "country",
+                        "id": "121"
+                    },
+                    {
+                        "type": "country",
+                        "id": "122"
+                    },
+                    {
+                        "type": "country",
+                        "id": "124"
+                    },
+                    {
+                        "type": "country",
+                        "id": "125"
+                    },
+                    {
+                        "type": "country",
+                        "id": "126"
+                    },
+                    {
+                        "type": "country",
+                        "id": "129"
+                    },
+                    {
+                        "type": "country",
+                        "id": "130"
+                    },
+                    {
+                        "type": "country",
+                        "id": "132"
+                    },
+                    {
+                        "type": "country",
+                        "id": "133"
+                    },
+                    {
+                        "type": "country",
+                        "id": "134"
+                    },
+                    {
+                        "type": "country",
+                        "id": "135"
+                    },
+                    {
+                        "type": "country",
+                        "id": "136"
+                    },
+                    {
+                        "type": "country",
+                        "id": "138"
+                    },
+                    {
+                        "type": "country",
+                        "id": "140"
+                    },
+                    {
+                        "type": "country",
+                        "id": "141"
+                    },
+                    {
+                        "type": "country",
+                        "id": "142"
+                    },
+                    {
+                        "type": "country",
+                        "id": "144"
+                    },
+                    {
+                        "type": "country",
+                        "id": "145"
+                    },
+                    {
+                        "type": "country",
+                        "id": "146"
+                    },
+                    {
+                        "type": "country",
+                        "id": "147"
+                    },
+                    {
+                        "type": "country",
+                        "id": "148"
+                    },
+                    {
+                        "type": "country",
+                        "id": "149"
+                    },
+                    {
+                        "type": "country",
+                        "id": "150"
+                    },
+                    {
+                        "type": "country",
+                        "id": "151"
+                    },
+                    {
+                        "type": "country",
+                        "id": "152"
+                    },
+                    {
+                        "type": "country",
+                        "id": "153"
+                    },
+                    {
+                        "type": "country",
+                        "id": "154"
+                    },
+                    {
+                        "type": "country",
+                        "id": "155"
+                    },
+                    {
+                        "type": "country",
+                        "id": "156"
+                    },
+                    {
+                        "type": "country",
+                        "id": "163"
+                    },
+                    {
+                        "type": "country",
+                        "id": "164"
+                    },
+                    {
+                        "type": "country",
+                        "id": "165"
+                    },
+                    {
+                        "type": "country",
+                        "id": "167"
+                    },
+                    {
+                        "type": "country",
+                        "id": "168"
+                    },
+                    {
+                        "type": "country",
+                        "id": "169"
+                    },
+                    {
+                        "type": "country",
+                        "id": "170"
+                    },
+                    {
+                        "type": "country",
+                        "id": "172"
+                    },
+                    {
+                        "type": "country",
+                        "id": "173"
+                    },
+                    {
+                        "type": "country",
+                        "id": "174"
+                    },
+                    {
+                        "type": "country",
+                        "id": "175"
+                    },
+                    {
+                        "type": "country",
+                        "id": "176"
+                    },
+                    {
+                        "type": "country",
+                        "id": "177"
+                    },
+                    {
+                        "type": "country",
+                        "id": "178"
+                    },
+                    {
+                        "type": "country",
+                        "id": "179"
+                    },
+                    {
+                        "type": "country",
+                        "id": "180"
+                    },
+                    {
+                        "type": "country",
+                        "id": "181"
+                    },
+                    {
+                        "type": "country",
+                        "id": "182"
+                    },
+                    {
+                        "type": "country",
+                        "id": "183"
+                    },
+                    {
+                        "type": "country",
+                        "id": "184"
+                    },
+                    {
+                        "type": "country",
+                        "id": "185"
+                    },
+                    {
+                        "type": "country",
+                        "id": "186"
+                    },
+                    {
+                        "type": "country",
+                        "id": "188"
+                    },
+                    {
+                        "type": "country",
+                        "id": "189"
+                    },
+                    {
+                        "type": "country",
+                        "id": "190"
+                    },
+                    {
+                        "type": "country",
+                        "id": "191"
+                    },
+                    {
+                        "type": "country",
+                        "id": "194"
+                    },
+                    {
+                        "type": "country",
+                        "id": "195"
+                    },
+                    {
+                        "type": "country",
+                        "id": "196"
+                    },
+                    {
+                        "type": "country",
+                        "id": "197"
+                    },
+                    {
+                        "type": "country",
+                        "id": "198"
+                    },
+                    {
+                        "type": "country",
+                        "id": "199"
+                    },
+                    {
+                        "type": "country",
+                        "id": "200"
+                    },
+                    {
+                        "type": "country",
+                        "id": "201"
+                    },
+                    {
+                        "type": "country",
+                        "id": "202"
+                    },
+                    {
+                        "type": "country",
+                        "id": "204"
+                    },
+                    {
+                        "type": "country",
+                        "id": "205"
+                    },
+                    {
+                        "type": "country",
+                        "id": "206"
+                    }
+                ]
+            },
+            "educationalDegree": {
+                "data": [
+                    {
+                        "type": "educationalDegree",
+                        "id": "1"
+                    },
+                    {
+                        "type": "educationalDegree",
+                        "id": "2"
+                    },
+                    {
+                        "type": "educationalDegree",
+                        "id": "3"
+                    },
+                    {
+                        "type": "educationalDegree",
+                        "id": "4"
+                    },
+                    {
+                        "type": "educationalDegree",
+                        "id": "5"
+                    },
+                    {
+                        "type": "educationalDegree",
+                        "id": "6"
+                    },
+                    {
+                        "type": "educationalDegree",
+                        "id": "7"
+                    },
+                    {
+                        "type": "educationalDegree",
+                        "id": "8"
+                    },
+                    {
+                        "type": "educationalDegree",
+                        "id": "9"
+                    },
+                    {
+                        "type": "educationalDegree",
+                        "id": "10"
+                    },
+                    {
+                        "type": "educationalDegree",
+                        "id": "12"
+                    },
+                    {
+                        "type": "educationalDegree",
+                        "id": "13"
+                    },
+                    {
+                        "type": "educationalDegree",
+                        "id": "14"
+                    },
+                    {
+                        "type": "educationalDegree",
+                        "id": "15"
+                    },
+                    {
+                        "type": "educationalDegree",
+                        "id": "16"
+                    },
+                    {
+                        "type": "educationalDegree",
+                        "id": "17"
+                    }
+                ]
+            },
+            "careerLevel": {
+                "data": [
+                    {
+                        "type": "careerLevel",
+                        "id": "1"
+                    },
+                    {
+                        "type": "careerLevel",
+                        "id": "2"
+                    },
+                    {
+                        "type": "careerLevel",
+                        "id": "5"
+                    },
+                    {
+                        "type": "careerLevel",
+                        "id": "6"
+                    },
+                    {
+                        "type": "careerLevel",
+                        "id": "7"
+                    },
+                    {
+                        "type": "careerLevel",
+                        "id": "8"
+                    }
+                ]
+            },
+            "jobSearchStatus": {
+                "data": [
+                    {
+                        "type": "jobSearchStatus",
+                        "id": "1"
+                    },
+                    {
+                        "type": "jobSearchStatus",
+                        "id": "2"
+                    },
+                    {
+                        "type": "jobSearchStatus",
+                        "id": "3"
+                    },
+                    {
+                        "type": "jobSearchStatus",
+                        "id": "4"
+                    },
+                    {
+                        "type": "jobSearchStatus",
+                        "id": "5"
+                    }
+                ]
+            },
+            "workRole": {
+                "data": [
+                    {
+                        "type": "workRole",
+                        "id": "1"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "2"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "3"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "4"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "5"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "6"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "7"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "8"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "9"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "10"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "13"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "14"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "15"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "16"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "17"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "18"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "19"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "20"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "21"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "22"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "23"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "24"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "25"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "26"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "27"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "28"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "29"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "30"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "31"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "32"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "33"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "34"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "35"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "36"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "37"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "38"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "39"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "40"
+                    },
+                    {
+                        "type": "workRole",
+                        "id": "41"
+                    }
+                ]
+            },
+            "workType": {
+                "data": [
+                    {
+                        "type": "workType",
+                        "id": "1"
+                    },
+                    {
+                        "type": "workType",
+                        "id": "2"
+                    },
+                    {
+                        "type": "workType",
+                        "id": "4"
+                    },
+                    {
+                        "type": "workType",
+                        "id": "5"
+                    },
+                    {
+                        "type": "workType",
+                        "id": "6"
+                    },
+                    {
+                        "type": "workType",
+                        "id": "7"
+                    },
+                    {
+                        "type": "workType",
+                        "id": "9"
+                    },
+                    {
+                        "type": "workType",
+                        "id": "10"
+                    },
+                    {
+                        "type": "workType",
+                        "id": "11"
+                    },
+                    {
+                        "type": "workType",
+                        "id": "12"
+                    },
+                    {
+                        "type": "workType",
+                        "id": "13"
+                    },
+                    {
+                        "type": "workType",
+                        "id": "14"
+                    },
+                    {
+                        "type": "workType",
+                        "id": "15"
+                    }
+                ]
+            },
+            "workExperienceYears": {
+                "data": [
+                    {
+                        "type": "workExperienceYears",
+                        "id": "1"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "2"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "3"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "4"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "5"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "6"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "7"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "8"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "9"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "10"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "11"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "12"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "13"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "14"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "15"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "16"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "17"
+                    },
+                    {
+                        "type": "workExperienceYears",
+                        "id": "18"
+                    }
+                ]
+            },
+            "salaryPeriod": {
+                "data": [
+                    {
+                        "type": "salaryPeriod",
+                        "id": "1"
+                    },
+                    {
+                        "type": "salaryPeriod",
+                        "id": "2"
+                    },
+                    {
+                        "type": "salaryPeriod",
+                        "id": "3"
+                    },
+                    {
+                        "type": "salaryPeriod",
+                        "id": "4"
+                    },
+                    {
+                        "type": "salaryPeriod",
+                        "id": "5"
+                    }
+                ]
+            }
+        },
+        "links": {
+            "self": "https:\/\/employer.wuzzuf.basharsys.com\/api\/lookUps\/"
+        }
+    },
+    "included": [
+        {
+            "type": "currency",
+            "id": "1",
+            "attributes": {
+                "name": "Select",
+                "code": "",
+                "symbol": "",
+                "conversionRateToUSD": 0,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "2",
+            "attributes": {
+                "name": "Afghanistan Afgani",
+                "code": "AFN",
+                "symbol": "",
+                "conversionRateToUSD": 0.0126984,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "3",
+            "attributes": {
+                "name": "African Franc",
+                "code": "XAF",
+                "symbol": "",
+                "conversionRateToUSD": 0.0016859,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "4",
+            "attributes": {
+                "name": "Albanian Leks",
+                "code": "ALL",
+                "symbol": "",
+                "conversionRateToUSD": 0.00901307,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "5",
+            "attributes": {
+                "name": "Algerian Dinar",
+                "code": "DZD",
+                "symbol": "",
+                "conversionRateToUSD": 0.00834861,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "6",
+            "attributes": {
+                "name": "Andorran Peseta",
+                "code": "ADP",
+                "symbol": "",
+                "conversionRateToUSD": 0,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "7",
+            "attributes": {
+                "name": "Argentine Peso",
+                "code": "ARS",
+                "symbol": "",
+                "conversionRateToUSD": 0.0166956,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "8",
+            "attributes": {
+                "name": "Armenian Dram",
+                "code": "AMD",
+                "symbol": "",
+                "conversionRateToUSD": 0.00209092,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "9",
+            "attributes": {
+                "name": "Aruban Florin",
+                "code": "AWG",
+                "symbol": "",
+                "conversionRateToUSD": 0.555556,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "10",
+            "attributes": {
+                "name": "Australian Dollar",
+                "code": "AUD",
+                "symbol": "",
+                "conversionRateToUSD": 0.684035,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "11",
+            "attributes": {
+                "name": "Azerbaijan Manat",
+                "code": "AZM",
+                "symbol": "",
+                "conversionRateToUSD": 0,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "12",
+            "attributes": {
+                "name": "Bahamas Dollar",
+                "code": "BSD",
+                "symbol": "",
+                "conversionRateToUSD": 1,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "13",
+            "attributes": {
+                "name": "Bahraini Dinars",
+                "code": "BHD",
+                "symbol": "",
+                "conversionRateToUSD": 2.65176,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "14",
+            "attributes": {
+                "name": "Bangladeshi Taka",
+                "code": "BDT",
+                "symbol": "",
+                "conversionRateToUSD": 0.0117922,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "15",
+            "attributes": {
+                "name": "Barbados Dollar",
+                "code": "BBD",
+                "symbol": "",
+                "conversionRateToUSD": 0.5,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "16",
+            "attributes": {
+                "name": "Belarus Roubles",
+                "code": "BYR",
+                "symbol": "",
+                "conversionRateToUSD": 5.10204e-5,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "17",
+            "attributes": {
+                "name": "Belize Dollar",
+                "code": "BZD",
+                "symbol": "",
+                "conversionRateToUSD": 0.496094,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "18",
+            "attributes": {
+                "name": "Bermuda Dollar",
+                "code": "BMD",
+                "symbol": "",
+                "conversionRateToUSD": 1,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "19",
+            "attributes": {
+                "name": "Bhutan Ngultrum",
+                "code": "BTN",
+                "symbol": "",
+                "conversionRateToUSD": 0.01404,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "20",
+            "attributes": {
+                "name": "Bolivian Boliviano",
+                "code": "BOB",
+                "symbol": "",
+                "conversionRateToUSD": 0.14461,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "21",
+            "attributes": {
+                "name": "Botswana Pula",
+                "code": "BWP",
+                "symbol": "",
+                "conversionRateToUSD": 0.0923967,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "22",
+            "attributes": {
+                "name": "Brazilian Real",
+                "code": "BRL",
+                "symbol": "",
+                "conversionRateToUSD": 0.241464,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "23",
+            "attributes": {
+                "name": "British Pound",
+                "code": "GBP",
+                "symbol": "",
+                "conversionRateToUSD": 1.3136,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "24",
+            "attributes": {
+                "name": "Brunei Dollars",
+                "code": "BND",
+                "symbol": "",
+                "conversionRateToUSD": 0.735376,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "25",
+            "attributes": {
+                "name": "Bulgarian Lev",
+                "code": "BGN",
+                "symbol": "",
+                "conversionRateToUSD": 0.566229,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "26",
+            "attributes": {
+                "name": "Burundi Franc",
+                "code": "BIF",
+                "symbol": "",
+                "conversionRateToUSD": 0.00053376,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "27",
+            "attributes": {
+                "name": "Canadian Dollar",
+                "code": "CAD",
+                "symbol": "",
+                "conversionRateToUSD": 0.754384,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "28",
+            "attributes": {
+                "name": "Cape Verde Escudo",
+                "code": "CVE",
+                "symbol": "",
+                "conversionRateToUSD": 0.00998502,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "29",
+            "attributes": {
+                "name": "Cayman Islands Dollar",
+                "code": "KYD",
+                "symbol": "",
+                "conversionRateToUSD": 1.19991,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "30",
+            "attributes": {
+                "name": "Chilian Peso",
+                "code": "CLP",
+                "symbol": "",
+                "conversionRateToUSD": 0.00128584,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "31",
+            "attributes": {
+                "name": "Chinese Yuan",
+                "code": "CNY",
+                "symbol": "",
+                "conversionRateToUSD": 0.14214,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "32",
+            "attributes": {
+                "name": "Colombian Peso",
+                "code": "COP",
+                "symbol": "",
+                "conversionRateToUSD": 0.000288206,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "33",
+            "attributes": {
+                "name": "Comoros Francs",
+                "code": "KMF",
+                "symbol": "",
+                "conversionRateToUSD": 0.0022424,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "34",
+            "attributes": {
+                "name": "Costa Rica Colon",
+                "code": "CRC",
+                "symbol": "",
+                "conversionRateToUSD": 0.00176674,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "35",
+            "attributes": {
+                "name": "Croatian Kuna",
+                "code": "HRK",
+                "symbol": "",
+                "conversionRateToUSD": 0.148678,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "36",
+            "attributes": {
+                "name": "Cuban Pesos",
+                "code": "CUP",
+                "symbol": "",
+                "conversionRateToUSD": 0.038835,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "37",
+            "attributes": {
+                "name": "Czech Koruna",
+                "code": "CZK",
+                "symbol": "",
+                "conversionRateToUSD": 0.0433279,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "38",
+            "attributes": {
+                "name": "Danish Kroner",
+                "code": "DKK",
+                "symbol": "",
+                "conversionRateToUSD": 0.148023,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "39",
+            "attributes": {
+                "name": "Djibouti Franc",
+                "code": "DJF",
+                "symbol": "",
+                "conversionRateToUSD": 0.00561798,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "40",
+            "attributes": {
+                "name": "Dominican Republic Pesos",
+                "code": "DOP",
+                "symbol": "",
+                "conversionRateToUSD": 0.01882,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "41",
+            "attributes": {
+                "name": "East Caribbean Dollar",
+                "code": "XCD",
+                "symbol": "",
+                "conversionRateToUSD": 0.370021,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "42",
+            "attributes": {
+                "name": "Ecuadoran Sucre",
+                "code": "ECS",
+                "symbol": "",
+                "conversionRateToUSD": 0,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "43",
+            "attributes": {
+                "name": "Egyptian Pound",
+                "code": "EGP",
+                "symbol": "",
+                "conversionRateToUSD": 0.0619468,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "44",
+            "attributes": {
+                "name": "El Salvadoran Colon",
+                "code": "SVC",
+                "symbol": "",
+                "conversionRateToUSD": 0.11428,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "45",
+            "attributes": {
+                "name": "Estonian Kroon",
+                "code": "EEK",
+                "symbol": "",
+                "conversionRateToUSD": 0,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "46",
+            "attributes": {
+                "name": "Ethiopian Birr",
+                "code": "ETB",
+                "symbol": "",
+                "conversionRateToUSD": 0.0328796,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "47",
+            "attributes": {
+                "name": "Euro",
+                "code": "EUR",
+                "symbol": "",
+                "conversionRateToUSD": 1.10588,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "48",
+            "attributes": {
+                "name": "Fijian Dollar",
+                "code": "FJD",
+                "symbol": "",
+                "conversionRateToUSD": 0.459929,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "49",
+            "attributes": {
+                "name": "Filipino Peso",
+                "code": "PHP",
+                "symbol": "",
+                "conversionRateToUSD": 0.0196848,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "50",
+            "attributes": {
+                "name": "Gambian Dalasi",
+                "code": "GMD",
+                "symbol": "",
+                "conversionRateToUSD": 0.0194766,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "51",
+            "attributes": {
+                "name": "Georgian Lari",
+                "code": "GEL",
+                "symbol": "",
+                "conversionRateToUSD": 0.340136,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "52",
+            "attributes": {
+                "name": "Ghanaian Cedis",
+                "code": "GHS",
+                "symbol": "",
+                "conversionRateToUSD": 0.176367,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "53",
+            "attributes": {
+                "name": "Gibraltar Pound",
+                "code": "GIP",
+                "symbol": "",
+                "conversionRateToUSD": 1.3136,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "54",
+            "attributes": {
+                "name": "Guatemalan Quetzales",
+                "code": "GTQ",
+                "symbol": "",
+                "conversionRateToUSD": 0.130206,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "55",
+            "attributes": {
+                "name": "Guinea Franc",
+                "code": "GNF",
+                "symbol": "",
+                "conversionRateToUSD": 0.000106045,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "56",
+            "attributes": {
+                "name": "Guyana Dollar",
+                "code": "GYD",
+                "symbol": "",
+                "conversionRateToUSD": 0.00477968,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "57",
+            "attributes": {
+                "name": "Haitian Gourdes",
+                "code": "HTG",
+                "symbol": "",
+                "conversionRateToUSD": 0.0102926,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "58",
+            "attributes": {
+                "name": "Honduran Lempiras",
+                "code": "HNL",
+                "symbol": "",
+                "conversionRateToUSD": 0.0403307,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "59",
+            "attributes": {
+                "name": "Hong Kong Dollar",
+                "code": "HKD",
+                "symbol": "",
+                "conversionRateToUSD": 0.127713,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "60",
+            "attributes": {
+                "name": "Hungarian Forint",
+                "code": "HUF",
+                "symbol": "",
+                "conversionRateToUSD": 0.00334041,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "61",
+            "attributes": {
+                "name": "Icelandic Krona",
+                "code": "ISK",
+                "symbol": "",
+                "conversionRateToUSD": 0.00822774,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "62",
+            "attributes": {
+                "name": "Indian Rupee",
+                "code": "INR",
+                "symbol": "",
+                "conversionRateToUSD": 0.0140258,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "63",
+            "attributes": {
+                "name": "Indonesian Rupiah",
+                "code": "IDR",
+                "symbol": "",
+                "conversionRateToUSD": 7.13069e-5,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "64",
+            "attributes": {
+                "name": "Iranian Rial",
+                "code": "IRR",
+                "symbol": "",
+                "conversionRateToUSD": 2.37501e-5,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "65",
+            "attributes": {
+                "name": "Iraqi New Dinar",
+                "code": "IQD",
+                "symbol": "",
+                "conversionRateToUSD": 0.000840336,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "66",
+            "attributes": {
+                "name": "Israeli New Shekel",
+                "code": "ILS",
+                "symbol": "",
+                "conversionRateToUSD": 0.288047,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "67",
+            "attributes": {
+                "name": "Jamaican Dollar",
+                "code": "JMD",
+                "symbol": "",
+                "conversionRateToUSD": 0.00711443,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "68",
+            "attributes": {
+                "name": "Japanese Yen",
+                "code": "JPY",
+                "symbol": "",
+                "conversionRateToUSD": 0.00920971,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "69",
+            "attributes": {
+                "name": "Jordanian Dinar",
+                "code": "JOD",
+                "symbol": "",
+                "conversionRateToUSD": 1.41044,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "70",
+            "attributes": {
+                "name": "Kazakhstan Tenge",
+                "code": "KZT",
+                "symbol": "",
+                "conversionRateToUSD": 0.00259113,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "71",
+            "attributes": {
+                "name": "Kenyan Schillings",
+                "code": "KES",
+                "symbol": "",
+                "conversionRateToUSD": 0.00983187,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "72",
+            "attributes": {
+                "name": "Korean Won",
+                "code": "KRW",
+                "symbol": "",
+                "conversionRateToUSD": 0.000843021,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "73",
+            "attributes": {
+                "name": "Kuwaiti Dinar",
+                "code": "KWD",
+                "symbol": "",
+                "conversionRateToUSD": 3.29378,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "74",
+            "attributes": {
+                "name": "Kyrgyzstan Som",
+                "code": "KGS",
+                "symbol": "",
+                "conversionRateToUSD": 0.0143535,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "75",
+            "attributes": {
+                "name": "Latvian Lat",
+                "code": "LVL",
+                "symbol": "",
+                "conversionRateToUSD": 1.65319,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "76",
+            "attributes": {
+                "name": "Lebanon Pound",
+                "code": "LBP",
+                "symbol": "",
+                "conversionRateToUSD": 0.000661432,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "77",
+            "attributes": {
+                "name": "Lesotho Loti",
+                "code": "LSL",
+                "symbol": "",
+                "conversionRateToUSD": 0.0682594,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "78",
+            "attributes": {
+                "name": "Liberian Dollar",
+                "code": "LRD",
+                "symbol": "",
+                "conversionRateToUSD": 0.00524796,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "79",
+            "attributes": {
+                "name": "Libyan Dinar",
+                "code": "LYD",
+                "symbol": "",
+                "conversionRateToUSD": 0.711744,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "80",
+            "attributes": {
+                "name": "Lithuanian Litas",
+                "code": "LTL",
+                "symbol": "",
+                "conversionRateToUSD": 0.338668,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "81",
+            "attributes": {
+                "name": "Macau Pataca",
+                "code": "MOP",
+                "symbol": "",
+                "conversionRateToUSD": 0.124011,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "82",
+            "attributes": {
+                "name": "Madagascar Ariayry",
+                "code": "MGA",
+                "symbol": "",
+                "conversionRateToUSD": 0.000275862,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "83",
+            "attributes": {
+                "name": "Malawi Kwachas",
+                "code": "MWK",
+                "symbol": "",
+                "conversionRateToUSD": 0.00137931,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "84",
+            "attributes": {
+                "name": "Malaysian Ringgit",
+                "code": "MYR",
+                "symbol": "",
+                "conversionRateToUSD": 0.239837,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "85",
+            "attributes": {
+                "name": "Maldive Rufiyaa",
+                "code": "MVR",
+                "symbol": "",
+                "conversionRateToUSD": 0.0647249,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "86",
+            "attributes": {
+                "name": "Mauritanian Ouguiya",
+                "code": "MRO",
+                "symbol": "",
+                "conversionRateToUSD": 0.00280112,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "87",
+            "attributes": {
+                "name": "Mauritius Rupee",
+                "code": "MUR",
+                "symbol": "",
+                "conversionRateToUSD": 0.0273953,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "88",
+            "attributes": {
+                "name": "Mexican Pesos",
+                "code": "MXN",
+                "symbol": "",
+                "conversionRateToUSD": 0.0518576,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "89",
+            "attributes": {
+                "name": "Moldovian Lei",
+                "code": "MDL",
+                "symbol": "",
+                "conversionRateToUSD": 0.0578797,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "90",
+            "attributes": {
+                "name": "Mongolian Tugrik",
+                "code": "MNT",
+                "symbol": "",
+                "conversionRateToUSD": 0.000371256,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "91",
+            "attributes": {
+                "name": "Moroccan Dirham",
+                "code": "MAD",
+                "symbol": "",
+                "conversionRateToUSD": 0.103654,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "92",
+            "attributes": {
+                "name": "Mozambique Meticals",
+                "code": "MZM",
+                "symbol": "",
+                "conversionRateToUSD": 0,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "93",
+            "attributes": {
+                "name": "Myanmar Kyat",
+                "code": "MMK",
+                "symbol": "",
+                "conversionRateToUSD": 0.000665655,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "94",
+            "attributes": {
+                "name": "Nepalese Rupee",
+                "code": "NPR",
+                "symbol": "",
+                "conversionRateToUSD": 0.00877498,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "95",
+            "attributes": {
+                "name": "Neth. Antilles Guilders",
+                "code": "ANG",
+                "symbol": "",
+                "conversionRateToUSD": 0.583083,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "96",
+            "attributes": {
+                "name": "New Taiwan Dollar",
+                "code": "TWD",
+                "symbol": "",
+                "conversionRateToUSD": 0.0328548,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "97",
+            "attributes": {
+                "name": "New Zealand Dollar",
+                "code": "NZD",
+                "symbol": "",
+                "conversionRateToUSD": 0.656604,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "98",
+            "attributes": {
+                "name": "Nicaraguan Cordoba",
+                "code": "NIC",
+                "symbol": "",
+                "conversionRateToUSD": 0,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "99",
+            "attributes": {
+                "name": "Nigerian Nairas",
+                "code": "NGN",
+                "symbol": "",
+                "conversionRateToUSD": 0.00275862,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "100",
+            "attributes": {
+                "name": "Norwegian Kroner",
+                "code": "NOK",
+                "symbol": "",
+                "conversionRateToUSD": 0.109553,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "101",
+            "attributes": {
+                "name": "Omani Rial",
+                "code": "OMR",
+                "symbol": "",
+                "conversionRateToUSD": 2.59704,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "102",
+            "attributes": {
+                "name": "Pacific Franc",
+                "code": "XPF",
+                "symbol": "",
+                "conversionRateToUSD": 0.00926723,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "103",
+            "attributes": {
+                "name": "Pakistan Rupee",
+                "code": "PKR",
+                "symbol": "",
+                "conversionRateToUSD": 0.00646078,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "104",
+            "attributes": {
+                "name": "Panamanian Balboa",
+                "code": "PAB",
+                "symbol": "",
+                "conversionRateToUSD": 1,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "105",
+            "attributes": {
+                "name": "Papua N. G. Kina",
+                "code": "PGK",
+                "symbol": "",
+                "conversionRateToUSD": 0.294985,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "106",
+            "attributes": {
+                "name": "Paraguayan Guarani",
+                "code": "PYG",
+                "symbol": "",
+                "conversionRateToUSD": 0.000155236,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "107",
+            "attributes": {
+                "name": "Peruvian New Soles",
+                "code": "PEN",
+                "symbol": "",
+                "conversionRateToUSD": 0.295902,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "108",
+            "attributes": {
+                "name": "Polish Zloty",
+                "code": "PLN",
+                "symbol": "",
+                "conversionRateToUSD": 0.258635,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "109",
+            "attributes": {
+                "name": "Qatari Riyal",
+                "code": "QAR",
+                "symbol": "",
+                "conversionRateToUSD": 0.274669,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "110",
+            "attributes": {
+                "name": "Romanian Leu",
+                "code": "RON",
+                "symbol": "",
+                "conversionRateToUSD": 0.231423,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "111",
+            "attributes": {
+                "name": "Russian Rubles",
+                "code": "RUB",
+                "symbol": "",
+                "conversionRateToUSD": 0.0157053,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "112",
+            "attributes": {
+                "name": "Rwanda Franc",
+                "code": "RWF",
+                "symbol": "",
+                "conversionRateToUSD": 0.00108696,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "113",
+            "attributes": {
+                "name": "Sao Tome Dobra",
+                "code": "STD",
+                "symbol": "",
+                "conversionRateToUSD": 4.63805e-5,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "114",
+            "attributes": {
+                "name": "Saudi Arabian Riyal",
+                "code": "SAR",
+                "symbol": "",
+                "conversionRateToUSD": 0.266684,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "115",
+            "attributes": {
+                "name": "Seychelles Rupee",
+                "code": "SCR",
+                "symbol": "",
+                "conversionRateToUSD": 0.0729807,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "116",
+            "attributes": {
+                "name": "Sierra Leonan Leone",
+                "code": "SLL",
+                "symbol": "",
+                "conversionRateToUSD": 0.000133695,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "117",
+            "attributes": {
+                "name": "Singapore Dollar",
+                "code": "SGD",
+                "symbol": "",
+                "conversionRateToUSD": 0.735227,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "118",
+            "attributes": {
+                "name": "Somali Schilling",
+                "code": "SOS",
+                "symbol": "",
+                "conversionRateToUSD": 0.00172117,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "119",
+            "attributes": {
+                "name": "South African Rand",
+                "code": "ZAR",
+                "symbol": "",
+                "conversionRateToUSD": 0.0683896,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "120",
+            "attributes": {
+                "name": "Sri Lankan Rupee",
+                "code": "LKR",
+                "symbol": "",
+                "conversionRateToUSD": 0.00551867,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "121",
+            "attributes": {
+                "name": "Surinam Dollar",
+                "code": "SRD",
+                "symbol": "",
+                "conversionRateToUSD": 0.134084,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "122",
+            "attributes": {
+                "name": "Swaziland Lilangeni",
+                "code": "SZL",
+                "symbol": "",
+                "conversionRateToUSD": 0.0682594,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "123",
+            "attributes": {
+                "name": "Swedish Krona",
+                "code": "SEK",
+                "symbol": "",
+                "conversionRateToUSD": 0.105318,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "124",
+            "attributes": {
+                "name": "Swiss Franc",
+                "code": "CHF",
+                "symbol": "",
+                "conversionRateToUSD": 1.00968,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "125",
+            "attributes": {
+                "name": "Syrian Pound",
+                "code": "SYP",
+                "symbol": "",
+                "conversionRateToUSD": 0.00194178,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "126",
+            "attributes": {
+                "name": "Tanzanian Shilling",
+                "code": "TZS",
+                "symbol": "",
+                "conversionRateToUSD": 0.000435237,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "127",
+            "attributes": {
+                "name": "Thai Baht",
+                "code": "THB",
+                "symbol": "",
+                "conversionRateToUSD": 0.0329461,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "128",
+            "attributes": {
+                "name": "Trinidad & Tobago Dollar",
+                "code": "TTD",
+                "symbol": "",
+                "conversionRateToUSD": 0.147999,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "129",
+            "attributes": {
+                "name": "Tunisian Dinars",
+                "code": "TND",
+                "symbol": "",
+                "conversionRateToUSD": 0.350324,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "130",
+            "attributes": {
+                "name": "Turkish New Lira",
+                "code": "TRY",
+                "symbol": "",
+                "conversionRateToUSD": 0.173112,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "131",
+            "attributes": {
+                "name": "Turkmenistan Manat",
+                "code": "TMM",
+                "symbol": "",
+                "conversionRateToUSD": 0,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "132",
+            "attributes": {
+                "name": "U.A. Emirates Dirham",
+                "code": "AED",
+                "symbol": "",
+                "conversionRateToUSD": 0.272257,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "133",
+            "attributes": {
+                "name": "Ugandan Shillings",
+                "code": "UGX",
+                "symbol": "",
+                "conversionRateToUSD": 0.000271366,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "134",
+            "attributes": {
+                "name": "Ukrainian Hryvna",
+                "code": "UAH",
+                "symbol": "",
+                "conversionRateToUSD": 0.0419838,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "135",
+            "attributes": {
+                "name": "United States Dollar",
+                "code": "USD",
+                "symbol": "",
+                "conversionRateToUSD": 1,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "136",
+            "attributes": {
+                "name": "Uruguayan Pesos",
+                "code": "UYU",
+                "symbol": "",
+                "conversionRateToUSD": 0.0264354,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "137",
+            "attributes": {
+                "name": "Uzbek Som",
+                "code": "UZS",
+                "symbol": "",
+                "conversionRateToUSD": 0.000105097,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "138",
+            "attributes": {
+                "name": "Venezuelan Bolivares",
+                "code": "VEF",
+                "symbol": "",
+                "conversionRateToUSD": 4.02434e-6,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "139",
+            "attributes": {
+                "name": "Vietnamese Dong",
+                "code": "VND",
+                "symbol": "",
+                "conversionRateToUSD": 4.30101e-5,
+                "translations": null
+            }
+        },
+        {
+            "type": "currency",
+            "id": "140",
+            "attributes": {
+                "name": "Yemen Riyal",
+                "code": "YER",
+                "symbol": "",
+                "conversionRateToUSD": 0.00399441,
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "1",
+            "attributes": {
+                "name": "Select",
+                "iso2Code": "NA",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "2",
+            "attributes": {
+                "name": "Afghanistan",
+                "iso2Code": "AF",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "3",
+            "attributes": {
+                "name": "Albania",
+                "iso2Code": "AL",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "4",
+            "attributes": {
+                "name": "Algeria",
+                "iso2Code": "DZ",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "7",
+            "attributes": {
+                "name": "Angola",
+                "iso2Code": "AO",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "10",
+            "attributes": {
+                "name": "Argentina",
+                "iso2Code": "AR",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "11",
+            "attributes": {
+                "name": "Armenia",
+                "iso2Code": "AM",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "13",
+            "attributes": {
+                "name": "Australia",
+                "iso2Code": "AU",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "14",
+            "attributes": {
+                "name": "Austria",
+                "iso2Code": "AT",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "15",
+            "attributes": {
+                "name": "Azerbaijan",
+                "iso2Code": "AZ",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "16",
+            "attributes": {
+                "name": "Bahamas",
+                "iso2Code": "BS",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "17",
+            "attributes": {
+                "name": "Bahrain",
+                "iso2Code": "BH",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "18",
+            "attributes": {
+                "name": "Bangladesh",
+                "iso2Code": "BD",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "19",
+            "attributes": {
+                "name": "Barbados",
+                "iso2Code": "BB",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "20",
+            "attributes": {
+                "name": "Belarus",
+                "iso2Code": "BY",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "21",
+            "attributes": {
+                "name": "Belgium",
+                "iso2Code": "BE",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "23",
+            "attributes": {
+                "name": "Benin",
+                "iso2Code": "BJ",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "25",
+            "attributes": {
+                "name": "Bhutan",
+                "iso2Code": "BT",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "26",
+            "attributes": {
+                "name": "Bolivia",
+                "iso2Code": "BO",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "27",
+            "attributes": {
+                "name": "Botswana",
+                "iso2Code": "BW",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "28",
+            "attributes": {
+                "name": "Brazil",
+                "iso2Code": "BR",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "30",
+            "attributes": {
+                "name": "Bulgaria",
+                "iso2Code": "BG",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "31",
+            "attributes": {
+                "name": "Burkina Faso",
+                "iso2Code": "BF",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "32",
+            "attributes": {
+                "name": "Burundi",
+                "iso2Code": "BI",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "33",
+            "attributes": {
+                "name": "Cameroon",
+                "iso2Code": "CM",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "34",
+            "attributes": {
+                "name": "Canada",
+                "iso2Code": "CA",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "35",
+            "attributes": {
+                "name": "Cape Verde",
+                "iso2Code": "CV",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "37",
+            "attributes": {
+                "name": "Central African Republic",
+                "iso2Code": "CF",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "38",
+            "attributes": {
+                "name": "Chad",
+                "iso2Code": "TD",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "39",
+            "attributes": {
+                "name": "Chile",
+                "iso2Code": "CL",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "40",
+            "attributes": {
+                "name": "China",
+                "iso2Code": "CN",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "43",
+            "attributes": {
+                "name": "Colombia",
+                "iso2Code": "CO",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "45",
+            "attributes": {
+                "name": "Congo",
+                "iso2Code": "CG",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "46",
+            "attributes": {
+                "name": "Costa Rica",
+                "iso2Code": "CR",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "47",
+            "attributes": {
+                "name": "Croatia",
+                "iso2Code": "HR",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "48",
+            "attributes": {
+                "name": "Cuba",
+                "iso2Code": "CU",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "49",
+            "attributes": {
+                "name": "Cyprus",
+                "iso2Code": "CY",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "50",
+            "attributes": {
+                "name": "Czech Republic",
+                "iso2Code": "CZ",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "51",
+            "attributes": {
+                "name": "Denmark",
+                "iso2Code": "DK",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "52",
+            "attributes": {
+                "name": "Djibouti",
+                "iso2Code": "DJ",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "54",
+            "attributes": {
+                "name": "Dominican Republic",
+                "iso2Code": "DO",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "55",
+            "attributes": {
+                "name": "Ecuador",
+                "iso2Code": "EC",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "56",
+            "attributes": {
+                "name": "Egypt",
+                "iso2Code": "EG",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "57",
+            "attributes": {
+                "name": "El Salvador",
+                "iso2Code": "SV",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "58",
+            "attributes": {
+                "name": "Equatorial Guinea",
+                "iso2Code": "GQ",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "59",
+            "attributes": {
+                "name": "Eritrea",
+                "iso2Code": "ER",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "60",
+            "attributes": {
+                "name": "Estonia",
+                "iso2Code": "EE",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "61",
+            "attributes": {
+                "name": "Ethiopia",
+                "iso2Code": "ET",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "63",
+            "attributes": {
+                "name": "Fiji",
+                "iso2Code": "FJ",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "64",
+            "attributes": {
+                "name": "Finland",
+                "iso2Code": "FI",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "65",
+            "attributes": {
+                "name": "France",
+                "iso2Code": "FR",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "67",
+            "attributes": {
+                "name": "Gabon",
+                "iso2Code": "GA",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "68",
+            "attributes": {
+                "name": "Gambia",
+                "iso2Code": "GM",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "69",
+            "attributes": {
+                "name": "Georgia",
+                "iso2Code": "GE",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "70",
+            "attributes": {
+                "name": "Germany",
+                "iso2Code": "DE",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "71",
+            "attributes": {
+                "name": "Ghana",
+                "iso2Code": "GH",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "73",
+            "attributes": {
+                "name": "Greece",
+                "iso2Code": "GR",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "76",
+            "attributes": {
+                "name": "Guatemala",
+                "iso2Code": "GT",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "77",
+            "attributes": {
+                "name": "Guinea",
+                "iso2Code": "GN",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "78",
+            "attributes": {
+                "name": "Guyana",
+                "iso2Code": "GY",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "79",
+            "attributes": {
+                "name": "Haiti",
+                "iso2Code": "HT",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "80",
+            "attributes": {
+                "name": "Honduras",
+                "iso2Code": "HN",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "81",
+            "attributes": {
+                "name": "Hong Kong",
+                "iso2Code": "HK",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "82",
+            "attributes": {
+                "name": "Hungary",
+                "iso2Code": "HU",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "83",
+            "attributes": {
+                "name": "Iceland",
+                "iso2Code": "IS",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "84",
+            "attributes": {
+                "name": "India",
+                "iso2Code": "IN",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "85",
+            "attributes": {
+                "name": "Indonesia",
+                "iso2Code": "ID",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "86",
+            "attributes": {
+                "name": "Iran",
+                "iso2Code": "IR",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "87",
+            "attributes": {
+                "name": "Iraq",
+                "iso2Code": "IQ",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "88",
+            "attributes": {
+                "name": "Ireland",
+                "iso2Code": "IE",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "90",
+            "attributes": {
+                "name": "Italy",
+                "iso2Code": "IT",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "91",
+            "attributes": {
+                "name": "Ivory Coast",
+                "iso2Code": "CI",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "92",
+            "attributes": {
+                "name": "Jamaica",
+                "iso2Code": "JM",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "93",
+            "attributes": {
+                "name": "Japan",
+                "iso2Code": "JP",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "94",
+            "attributes": {
+                "name": "Jordan",
+                "iso2Code": "JO",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "95",
+            "attributes": {
+                "name": "Kazakhstan",
+                "iso2Code": "KZ",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "96",
+            "attributes": {
+                "name": "Kenya",
+                "iso2Code": "KE",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "98",
+            "attributes": {
+                "name": "Kuwait",
+                "iso2Code": "KW",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "99",
+            "attributes": {
+                "name": "Kyrgyzstan",
+                "iso2Code": "KG",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "100",
+            "attributes": {
+                "name": "Latvia",
+                "iso2Code": "LV",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "101",
+            "attributes": {
+                "name": "Lebanon",
+                "iso2Code": "LB",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "102",
+            "attributes": {
+                "name": "Lesotho",
+                "iso2Code": "LS",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "103",
+            "attributes": {
+                "name": "Liberia",
+                "iso2Code": "LR",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "104",
+            "attributes": {
+                "name": "Libya",
+                "iso2Code": "LY",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "106",
+            "attributes": {
+                "name": "Lithuania",
+                "iso2Code": "LT",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "107",
+            "attributes": {
+                "name": "Luxembourg",
+                "iso2Code": "LU",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "108",
+            "attributes": {
+                "name": "Macau",
+                "iso2Code": "MO",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "109",
+            "attributes": {
+                "name": "Macedonia",
+                "iso2Code": "MK",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "110",
+            "attributes": {
+                "name": "Madagascar",
+                "iso2Code": "MG",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "111",
+            "attributes": {
+                "name": "Malawi",
+                "iso2Code": "MW",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "112",
+            "attributes": {
+                "name": "Malaysia",
+                "iso2Code": "MY",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "113",
+            "attributes": {
+                "name": "Maldives",
+                "iso2Code": "MV",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "114",
+            "attributes": {
+                "name": "Mali",
+                "iso2Code": "ML",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "117",
+            "attributes": {
+                "name": "Mauritania",
+                "iso2Code": "MR",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "118",
+            "attributes": {
+                "name": "Mauritius",
+                "iso2Code": "MU",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "119",
+            "attributes": {
+                "name": "Mexico",
+                "iso2Code": "MX",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "121",
+            "attributes": {
+                "name": "Moldova",
+                "iso2Code": "MD",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "122",
+            "attributes": {
+                "name": "Mongolia",
+                "iso2Code": "MN",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "124",
+            "attributes": {
+                "name": "Morocco",
+                "iso2Code": "MA",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "125",
+            "attributes": {
+                "name": "Mozambique",
+                "iso2Code": "MZ",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "126",
+            "attributes": {
+                "name": "Myanmar",
+                "iso2Code": "MM",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "129",
+            "attributes": {
+                "name": "Nepal",
+                "iso2Code": "NP",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "130",
+            "attributes": {
+                "name": "Netherlands",
+                "iso2Code": "NL",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "132",
+            "attributes": {
+                "name": "New Caledonia",
+                "iso2Code": "NC",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "133",
+            "attributes": {
+                "name": "New Zealand",
+                "iso2Code": "NZ",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "134",
+            "attributes": {
+                "name": "Nicaragua",
+                "iso2Code": "NI",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "135",
+            "attributes": {
+                "name": "Niger",
+                "iso2Code": "NE",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "136",
+            "attributes": {
+                "name": "Nigeria",
+                "iso2Code": "NG",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "138",
+            "attributes": {
+                "name": "North Korea",
+                "iso2Code": "KP",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "140",
+            "attributes": {
+                "name": "Norway",
+                "iso2Code": "NO",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "141",
+            "attributes": {
+                "name": "Oman",
+                "iso2Code": "OM",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "142",
+            "attributes": {
+                "name": "Pakistan",
+                "iso2Code": "PK",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "144",
+            "attributes": {
+                "name": "Palestine",
+                "iso2Code": "PS",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "145",
+            "attributes": {
+                "name": "Panama",
+                "iso2Code": "PA",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "146",
+            "attributes": {
+                "name": "Papua New Guinea",
+                "iso2Code": "PG",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "147",
+            "attributes": {
+                "name": "Paraguay",
+                "iso2Code": "PY",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "148",
+            "attributes": {
+                "name": "Peru",
+                "iso2Code": "PE",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "149",
+            "attributes": {
+                "name": "Philippines",
+                "iso2Code": "PH",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "150",
+            "attributes": {
+                "name": "Poland",
+                "iso2Code": "PL",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "151",
+            "attributes": {
+                "name": "Portugal",
+                "iso2Code": "PT",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "152",
+            "attributes": {
+                "name": "Puerto Rico",
+                "iso2Code": "PR",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "153",
+            "attributes": {
+                "name": "Qatar",
+                "iso2Code": "QA",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "154",
+            "attributes": {
+                "name": "Romania",
+                "iso2Code": "RO",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "155",
+            "attributes": {
+                "name": "Russia",
+                "iso2Code": "RU",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "156",
+            "attributes": {
+                "name": "Rwanda",
+                "iso2Code": "RW",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "163",
+            "attributes": {
+                "name": "Saudi Arabia",
+                "iso2Code": "SA",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "164",
+            "attributes": {
+                "name": "Senegal",
+                "iso2Code": "SN",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "165",
+            "attributes": {
+                "name": "Serbia and Montenegro",
+                "iso2Code": "RS",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "167",
+            "attributes": {
+                "name": "Sierra Leone",
+                "iso2Code": "SL",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "168",
+            "attributes": {
+                "name": "Singapore",
+                "iso2Code": "SG",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "169",
+            "attributes": {
+                "name": "Slovakia",
+                "iso2Code": "SK",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "170",
+            "attributes": {
+                "name": "Slovenia",
+                "iso2Code": "SI",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "172",
+            "attributes": {
+                "name": "Somalia",
+                "iso2Code": "SO",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "173",
+            "attributes": {
+                "name": "South Africa",
+                "iso2Code": "ZA",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "174",
+            "attributes": {
+                "name": "South Korea",
+                "iso2Code": "KR",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "175",
+            "attributes": {
+                "name": "Spain",
+                "iso2Code": "ES",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "176",
+            "attributes": {
+                "name": "Sri Lanka",
+                "iso2Code": "LK",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "177",
+            "attributes": {
+                "name": "Sudan",
+                "iso2Code": "SD",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "178",
+            "attributes": {
+                "name": "Suriname",
+                "iso2Code": "SR",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "179",
+            "attributes": {
+                "name": "Swaziland",
+                "iso2Code": "SZ",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "180",
+            "attributes": {
+                "name": "Sweden",
+                "iso2Code": "SE",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "181",
+            "attributes": {
+                "name": "Switzerland",
+                "iso2Code": "CH",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "182",
+            "attributes": {
+                "name": "Syria",
+                "iso2Code": "SY",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "183",
+            "attributes": {
+                "name": "Taiwan",
+                "iso2Code": "TW",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "184",
+            "attributes": {
+                "name": "Tajikistan",
+                "iso2Code": "TJ",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "185",
+            "attributes": {
+                "name": "Tanzania",
+                "iso2Code": "TZ",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "186",
+            "attributes": {
+                "name": "Thailand",
+                "iso2Code": "TH",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "188",
+            "attributes": {
+                "name": "Trinidad & Tobago",
+                "iso2Code": "TT",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "189",
+            "attributes": {
+                "name": "Tunisia",
+                "iso2Code": "TN",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "190",
+            "attributes": {
+                "name": "Turkey",
+                "iso2Code": "TR",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "191",
+            "attributes": {
+                "name": "Turkmenistan",
+                "iso2Code": "TM",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "194",
+            "attributes": {
+                "name": "Uganda",
+                "iso2Code": "UG",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "195",
+            "attributes": {
+                "name": "Ukraine",
+                "iso2Code": "UA",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "196",
+            "attributes": {
+                "name": "United Arab Emirates",
+                "iso2Code": "AE",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "197",
+            "attributes": {
+                "name": "United Kingdom",
+                "iso2Code": "GB",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "198",
+            "attributes": {
+                "name": "United States",
+                "iso2Code": "US",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "199",
+            "attributes": {
+                "name": "Uruguay",
+                "iso2Code": "UY",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "200",
+            "attributes": {
+                "name": "Uzbekistan",
+                "iso2Code": "UZ",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "201",
+            "attributes": {
+                "name": "Venezuela",
+                "iso2Code": "VE",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "202",
+            "attributes": {
+                "name": "Vietnam",
+                "iso2Code": "VN",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "204",
+            "attributes": {
+                "name": "Western Sahara",
+                "iso2Code": "EH",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "205",
+            "attributes": {
+                "name": "Yemen",
+                "iso2Code": "YE",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "206",
+            "attributes": {
+                "name": "Zimbabwe",
+                "iso2Code": "ZW",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "1",
+            "attributes": {
+                "name": "Select",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "2",
+            "attributes": {
+                "name": "High School",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "3",
+            "attributes": {
+                "name": "Vocational",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "4",
+            "attributes": {
+                "name": "Technical Diploma",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "5",
+            "attributes": {
+                "name": "College Diploma",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "6",
+            "attributes": {
+                "name": "Bachelor's Degree",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "7",
+            "attributes": {
+                "name": "Master's Degree",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "8",
+            "attributes": {
+                "name": "MBA",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "9",
+            "attributes": {
+                "name": "Doctorate Degree",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "10",
+            "attributes": {
+                "name": "Not Specified",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "12",
+            "attributes": {
+                "name": "High School (or equivalent)",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "13",
+            "attributes": {
+                "name": "Diploma",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "14",
+            "attributes": {
+                "name": "Bachelor's Degree",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "15",
+            "attributes": {
+                "name": "Master's Degree",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "16",
+            "attributes": {
+                "name": "Doctorate",
+                "translations": null
+            }
+        },
+        {
+            "type": "educationalDegree",
+            "id": "17",
+            "attributes": {
+                "name": "MBA",
+                "translations": null
+            }
+        },
+        {
+            "type": "careerLevel",
+            "id": "1",
+            "attributes": {
+                "name": "Select",
+                "displayName": "Select",
+                "hint": null,
+                "translations": null,
+                "order": 1
+            },
+            "links": {
+                "browsePage": "a\/Select-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "careerLevel",
+            "id": "2",
+            "attributes": {
+                "name": "Student",
+                "displayName": "Student",
+                "hint": "Undergrad \/ Postgrad",
+                "translations": null,
+                "order": 2
+            },
+            "links": {
+                "browsePage": "a\/Student-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "careerLevel",
+            "id": "5",
+            "attributes": {
+                "name": "Entry Level",
+                "displayName": "Entry Level",
+                "hint": "Junior Level \/ Fresh Grad",
+                "translations": null,
+                "order": 3
+            },
+            "links": {
+                "browsePage": "a\/Entry-Level-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "careerLevel",
+            "id": "6",
+            "attributes": {
+                "name": "Experienced (Non-Manager)",
+                "displayName": "Experienced",
+                "hint": "Non-Manager",
+                "translations": null,
+                "order": 4
+            },
+            "links": {
+                "browsePage": "a\/Experienced-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "careerLevel",
+            "id": "7",
+            "attributes": {
+                "name": "Manager",
+                "displayName": "Manager",
+                "hint": null,
+                "translations": null,
+                "order": 5
+            },
+            "links": {
+                "browsePage": "a\/Manager-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "careerLevel",
+            "id": "8",
+            "attributes": {
+                "name": "Senior Management (e.g. VP, CEO)",
+                "displayName": "Senior Management",
+                "hint": "CEO, GM, Director, Head",
+                "translations": null,
+                "order": 6
+            },
+            "links": {
+                "browsePage": "a\/Senior-Management-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "jobSearchStatus",
+            "id": "1",
+            "attributes": {
+                "name": "I am unemployed and desperate for a job",
+                "translations": null
+            }
+        },
+        {
+            "type": "jobSearchStatus",
+            "id": "2",
+            "attributes": {
+                "name": "I am actively looking for new opportunities and jobs",
+                "translations": null
+            }
+        },
+        {
+            "type": "jobSearchStatus",
+            "id": "3",
+            "attributes": {
+                "name": "I am happy where I am but don't mind finding good opportunities",
+                "translations": null
+            }
+        },
+        {
+            "type": "jobSearchStatus",
+            "id": "4",
+            "attributes": {
+                "name": "I am only interested in very specific opportunities",
+                "translations": null
+            }
+        },
+        {
+            "type": "jobSearchStatus",
+            "id": "5",
+            "attributes": {
+                "name": "I am not looking for a job",
+                "translations": null
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "1",
+            "attributes": {
+                "name": "Select",
+                "translations": null,
+                "searchName": null
+            },
+            "meta": []
+        },
+        {
+            "type": "workRole",
+            "id": "2",
+            "attributes": {
+                "name": "Accounting\/Finance",
+                "translations": null,
+                "searchName": "Accounting-Finance-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Accounting-Finance-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Accounting-Finance-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Accounting-Finance-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "3",
+            "attributes": {
+                "name": "Administration",
+                "translations": null,
+                "searchName": "Administration-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Administration-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Administration-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Administration-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "4",
+            "attributes": {
+                "name": "Heba",
+                "translations": null,
+                "searchName": "Banking-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Banking-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Banking-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Banking-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "5",
+            "attributes": {
+                "name": "Hossam",
+                "translations": null,
+                "searchName": "R&D-Science-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/R-D-Science-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/R%26D-Science-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/R%26D-Science-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "6",
+            "attributes": {
+                "name": "Engineering - Construction\/Civil\/Architecture",
+                "translations": null,
+                "searchName": "Engineering-Construction-Civil-Architecture-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Engineering-Construction-Civil-Architecture-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Engineering-Construction-Civil-Architecture-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Engineering-Construction-Civil-Architecture-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "7",
+            "attributes": {
+                "name": "Business Development",
+                "translations": null,
+                "searchName": "Business-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Business-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Business-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Business-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "8",
+            "attributes": {
+                "name": "Creative\/Design\/Art",
+                "translations": null,
+                "searchName": "Creative-Design-Art-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Creative-Design-Art-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Creative-Design-Art-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Creative-Design-Art-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "9",
+            "attributes": {
+                "name": "Customer Service\/Support",
+                "translations": null,
+                "searchName": "Customer-Service-Jobs "
+            },
+            "links": {
+                "browsePage": "a\/Customer-Service-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Customer-Service-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Customer-Service-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "10",
+            "attributes": {
+                "name": "Writing\/Editorial",
+                "translations": null,
+                "searchName": "Editorial-Writing-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Editorial-Writing-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Editorial-Writing-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Editorial-Writing-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "13",
+            "attributes": {
+                "name": "Hospitality\/Hotels\/Food Services",
+                "translations": null,
+                "searchName": "Hospitality-Hotels-Food-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Hospitality-Hotels-Food-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Hospitality-Hotels-Food-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Hospitality-Hotels-Food-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "14",
+            "attributes": {
+                "name": "Human Resources",
+                "translations": null,
+                "searchName": "Human-Resources-HR-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Human-Resources-HR-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Human-Resources-HR-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Human-Resources-HR-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "15",
+            "attributes": {
+                "name": "Installation\/Maintenance\/Repair",
+                "translations": null,
+                "searchName": "Installation-Maintenance-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Installation-Maintenance-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Installation-Maintenance-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Installation-Maintenance-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "16",
+            "attributes": {
+                "name": "IT\/Software Development",
+                "translations": null,
+                "searchName": "IT-Software-Development-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/IT-Software-Development-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/IT-Software-Development-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/IT-Software-Development-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "17",
+            "attributes": {
+                "name": "Legal",
+                "translations": null,
+                "searchName": "Legal-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Legal-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Legal-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Legal-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "18",
+            "attributes": {
+                "name": "Logistics\/Supply Chain",
+                "translations": null,
+                "searchName": "Logistics-Supply-Chain-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Logistics-Supply-Chain-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Logistics-Supply-Chain-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Logistics-Supply-Chain-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "19",
+            "attributes": {
+                "name": "Operations\/Management",
+                "translations": null,
+                "searchName": "Operations-Management-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Operations-Management-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Operations-Management-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Operations-Management-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "20",
+            "attributes": {
+                "name": "Manufacturing\/Production",
+                "translations": null,
+                "searchName": "Manufacturing-Production-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Manufacturing-Production-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Manufacturing-Production-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Manufacturing-Production-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "21",
+            "attributes": {
+                "name": "Marketing\/PR\/Advertising",
+                "translations": null,
+                "searchName": "Marketing-PR-Advertising-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Marketing-PR-Advertising-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Marketing-PR-Advertising-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Marketing-PR-Advertising-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "22",
+            "attributes": {
+                "name": "Medical\/Healthcare",
+                "translations": null,
+                "searchName": "Healthcare-Medical-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Healthcare-Medical-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Healthcare-Medical-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Healthcare-Medical-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "23",
+            "attributes": {
+                "name": "Other",
+                "translations": null,
+                "searchName": null
+            },
+            "meta": []
+        },
+        {
+            "type": "workRole",
+            "id": "24",
+            "attributes": {
+                "name": "Project\/Program Management",
+                "translations": null,
+                "searchName": "Program-Project-Management-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Program-Project-Management-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Program-Project-Management-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Program-Project-Management-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "25",
+            "attributes": {
+                "name": "Quality",
+                "translations": null,
+                "searchName": "Quality-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Quality-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Quality-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Quality-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "26",
+            "attributes": {
+                "name": "Analyst\/Research",
+                "translations": null,
+                "searchName": "Analyst-Research-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Analyst-Research-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Analyst-Research-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Analyst-Research-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "27",
+            "attributes": {
+                "name": "Sales\/Retail",
+                "translations": null,
+                "searchName": "Sales-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Sales-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Sales-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Sales-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "28",
+            "attributes": {
+                "name": "Media\/Journalism\/Publishing",
+                "translations": null,
+                "searchName": "Media-Journalism-Publishing-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Media-Journalism-Publishing-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Media-Journalism-Publishing-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Media-Journalism-Publishing-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "29",
+            "attributes": {
+                "name": "Sports and Leisure",
+                "translations": null,
+                "searchName": "Sports-Leisure-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Sports-Leisure-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Sports-Leisure-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Sports-Leisure-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "30",
+            "attributes": {
+                "name": "Fashion",
+                "translations": null,
+                "searchName": "Fashion-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Fashion-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Fashion-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Fashion-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "31",
+            "attributes": {
+                "name": "Pharmaceutical",
+                "translations": null,
+                "searchName": "Pharmaceutical-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Pharmaceutical-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Pharmaceutical-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Pharmaceutical-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "32",
+            "attributes": {
+                "name": "Tourism\/Travel",
+                "translations": null,
+                "searchName": "Tourism-Travel-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Tourism-Travel-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Tourism-Travel-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Tourism-Travel-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "33",
+            "attributes": {
+                "name": "Purchasing\/Procurement",
+                "translations": null,
+                "searchName": "Purchasing-Procurement-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Purchasing-Procurement-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Purchasing-Procurement-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Purchasing-Procurement-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "34",
+            "attributes": {
+                "name": "Strategy\/Consulting",
+                "translations": null,
+                "searchName": "Strategy-Consulting-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Strategy-Consulting-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Strategy-Consulting-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Strategy-Consulting-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "35",
+            "attributes": {
+                "name": "C-Level Executive\/GM\/Director",
+                "translations": null,
+                "searchName": "Executive-GM-Director-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Executive-GM-Director-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Executive-GM-Director-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Executive-GM-Director-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "36",
+            "attributes": {
+                "name": "Engineering - Telecom\/Technology",
+                "translations": null,
+                "searchName": "Engineering-Telecom-Technology-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Engineering-Telecom-Technology-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Engineering-Telecom-Technology-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Engineering-Telecom-Technology-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "37",
+            "attributes": {
+                "name": "Engineering - Mechanical\/Electrical",
+                "translations": null,
+                "searchName": "Engineering-Mechanical-Electrical-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Engineering-Mechanical-Electrical-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Engineering-Mechanical-Electrical-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Engineering-Mechanical-Electrical-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "38",
+            "attributes": {
+                "name": "Engineering - Oil & Gas\/Energy",
+                "translations": null,
+                "searchName": "Engineering-Oil-Gas-Energy-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Engineering-Oil-Gas-Energy-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Engineering-Oil-Gas-Energy-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Engineering-Oil-Gas-Energy-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "39",
+            "attributes": {
+                "name": "Engineering - Other",
+                "translations": null,
+                "searchName": "Engineering-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Engineering-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Engineering-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Engineering-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "40",
+            "attributes": {
+                "name": "Education\/Teaching",
+                "translations": null,
+                "searchName": "Education-Teaching-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Education-Teaching-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Education-Teaching-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Education-Teaching-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workRole",
+            "id": "41",
+            "attributes": {
+                "name": "Training\/Instructor",
+                "translations": null,
+                "searchName": "Training-Instructor-Jobs"
+            },
+            "links": {
+                "browsePage": "a\/Training-Instructor-Jobs-in-Egypt"
+            },
+            "meta": {
+                "image": {
+                    "small": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Training-Instructor-Jobs.jpg",
+                    "large": "https:\/\/wuzzuf-testing.s3.eu-west-1.amazonaws.com\/files\/assets\/work-roles\/Training-Instructor-Jobs-lrg.jpg"
+                }
+            }
+        },
+        {
+            "type": "workType",
+            "id": "1",
+            "attributes": {
+                "name": "full_time",
+                "displayedName": "Full Time",
+                "translations": null
+            },
+            "links": {
+                "browsePage": "a\/Full-Time-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "workType",
+            "id": "2",
+            "attributes": {
+                "name": "part_time",
+                "displayedName": "Part Time",
+                "translations": null
+            },
+            "links": {
+                "browsePage": "a\/Part-Time-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "workType",
+            "id": "4",
+            "attributes": {
+                "name": "freelance_project",
+                "displayedName": "Freelance \/ Project",
+                "translations": null
+            },
+            "links": {
+                "browsePage": "a\/Freelance-Project-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "workType",
+            "id": "5",
+            "attributes": {
+                "name": "internship",
+                "displayedName": "Internship",
+                "translations": null
+            },
+            "links": {
+                "browsePage": "a\/Internship-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "workType",
+            "id": "6",
+            "attributes": {
+                "name": "shift_based",
+                "displayedName": "Shift Based",
+                "translations": null
+            },
+            "links": {
+                "browsePage": "a\/Shift-Based-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "workType",
+            "id": "7",
+            "attributes": {
+                "name": "work_from_home",
+                "displayedName": "Work From Home",
+                "translations": null
+            },
+            "links": {
+                "browsePage": "a\/Work-From-Home-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "workType",
+            "id": "9",
+            "attributes": {
+                "name": "volunteering",
+                "displayedName": "Volunteering",
+                "translations": null
+            },
+            "links": {
+                "browsePage": "a\/Volunteering-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "workType",
+            "id": "10",
+            "attributes": {
+                "name": "event",
+                "displayedName": "Event",
+                "translations": null
+            },
+            "links": {
+                "browsePage": "a\/Event-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "workType",
+            "id": "11",
+            "attributes": {
+                "name": "competition",
+                "displayedName": "Competition",
+                "translations": null
+            },
+            "links": {
+                "browsePage": "a\/Competition-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "workType",
+            "id": "12",
+            "attributes": {
+                "name": "job_fair",
+                "displayedName": "Job Fair",
+                "translations": null
+            },
+            "links": {
+                "browsePage": "a\/Job-Fair-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "workType",
+            "id": "13",
+            "attributes": {
+                "name": "student_activity",
+                "displayedName": "Student Activity",
+                "translations": null
+            },
+            "links": {
+                "browsePage": "a\/Student-Activity-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "workType",
+            "id": "14",
+            "attributes": {
+                "name": "meetup",
+                "displayedName": "Meetup",
+                "translations": null
+            },
+            "links": {
+                "browsePage": "a\/Meetup-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "workType",
+            "id": "15",
+            "attributes": {
+                "name": "course",
+                "displayedName": "Course",
+                "translations": null
+            },
+            "links": {
+                "browsePage": "a\/Course-Jobs-in-Egypt"
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "1",
+            "attributes": {
+                "years": "No experience",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "2",
+            "attributes": {
+                "years": "Less than 1 year",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "3",
+            "attributes": {
+                "years": "1 year",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "4",
+            "attributes": {
+                "years": "2 years",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "5",
+            "attributes": {
+                "years": "3 years",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "6",
+            "attributes": {
+                "years": "4 years",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "7",
+            "attributes": {
+                "years": "5 years",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "8",
+            "attributes": {
+                "years": "6 years",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "9",
+            "attributes": {
+                "years": "7 years",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "10",
+            "attributes": {
+                "years": "8 years",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "11",
+            "attributes": {
+                "years": "9 years",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "12",
+            "attributes": {
+                "years": "10 years",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "13",
+            "attributes": {
+                "years": "11 years",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "14",
+            "attributes": {
+                "years": "12 years",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "15",
+            "attributes": {
+                "years": "13 years",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "16",
+            "attributes": {
+                "years": "14 years",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "17",
+            "attributes": {
+                "years": "15 years",
+                "translations": null
+            }
+        },
+        {
+            "type": "workExperienceYears",
+            "id": "18",
+            "attributes": {
+                "years": "More than 15 years",
+                "translations": null
+            }
+        },
+        {
+            "type": "salaryPeriod",
+            "id": "1",
+            "attributes": {
+                "period": "Per Hour",
+                "translations": null
+            }
+        },
+        {
+            "type": "salaryPeriod",
+            "id": "2",
+            "attributes": {
+                "period": "Per Day",
+                "translations": null
+            }
+        },
+        {
+            "type": "salaryPeriod",
+            "id": "3",
+            "attributes": {
+                "period": "Per Week",
+                "translations": null
+            }
+        },
+        {
+            "type": "salaryPeriod",
+            "id": "4",
+            "attributes": {
+                "period": "Per Month",
+                "translations": null
+            }
+        },
+        {
+            "type": "salaryPeriod",
+            "id": "5",
+            "attributes": {
+                "period": "Per Year",
+                "translations": null
+            }
+        }
+    ]
+}

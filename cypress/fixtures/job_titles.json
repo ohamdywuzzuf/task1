@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "type": "lookupJobTitle",
+            "id": "7516132c51e75ce65534cbdcc96c2c45",
+            "attributes": {
+                "name": "ABCDE",
+                "isVerified": true,
+                "frequency": 124913
+            }
+        },
+        {
+            "type": "lookupJobTitle",
+            "id": "5c6ae0cc26849dfc76f4f48ae41f768a",
+            "attributes": {
+                "name": "ACADEMIC",
+                "isVerified": true,
+                "frequency": 13817
+            }
+        },
+        {
+            "type": "lookupJobTitle",
+            "id": "67929a59f2f08a70120f544ac56b0e70",
+            "attributes": {
+                "name": "ALUMNI",
+                "isVerified": true,
+                "frequency": 12994
+            }
+        },
+        {
+            "type": "lookupJobTitle",
+            "id": "a9cf7efaa11053dbe67ae1e3c3deaee9",
+            "attributes": {
+                "name": "ASUPERGUY",
+                "isVerified": true,
+                "frequency": 11374
+            }
+        },
+        {
+            "type": "lookupJobTitle",
+            "id": "5f9149d334e1eb77ec31da912e12ce57",
+            "attributes": {
+                "name": "TOKA TOKA",
+                "isVerified": true,
+                "frequency": 10858
+            }
+        },
+        {
+            "type": "lookupJobTitle",
+            "id": "ed8a7d8e8cdcb9b3204b4e682dc705e5",
+            "attributes": {
+                "name": "PUCUCC",
+                "isVerified": true,
+                "frequency": 10602
+            }
+        },
+        {
+            "type": "lookupJobTitle",
+            "id": "55e750007abdb6387d7e2591a1282bbb",
+            "attributes": {
+                "name": "Administrative Aide",
+                "isVerified": true,
+                "frequency": 10458
+            }
+        },
+        {
+            "type": "lookupJobTitle",
+            "id": "d551741a78038cb6f90d4aca38666d19",
+            "attributes": {
+                "name": "Assistant Financial Controller",
+                "isVerified": true,
+                "frequency": 7447
+            }
+        }
+    ]
+}
