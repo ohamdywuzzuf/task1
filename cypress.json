@@ -1,4 +1,6 @@
 {
     "baseUrl": "https://employer.wuzzuf.basharsys.com/",
-    "chromeWebSecurity": false
+    "chromeWebSecurity": false,
+    "experimentalSessionAndOrigin": true,
+    "experimentalSessionSupport": true
 }

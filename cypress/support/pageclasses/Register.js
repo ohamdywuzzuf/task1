@@ -15,5 +15,10 @@ fillPassword(password) {
     cy.get('.css-1xmsobw').type(password)
     return this;
 }
+submit(){
+    cy.get('button[type=submit].css-6lejne')
+    .click()
+    return this;
+}
 }
 export default Register

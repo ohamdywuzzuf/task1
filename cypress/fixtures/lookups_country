@@ -1,0 +1,68 @@
+{
+    "data": {
+        "type": "lookUps",
+        "relationships": {
+            "country": {
+                "data": [
+                    {
+                        "type": "country",
+                        "id": "1"
+                    },
+                    {
+                        "type": "country",
+                        "id": "2"
+                    },
+                    {
+                        "type": "country",
+                        "id": "3"
+                    },
+                    {
+                        "type": "country",
+                        "id": "4"
+                    },
+                ]
+            }
+        },
+        "links": {
+            "self": "https:\/\/employer.wuzzuf.basharsys.com\/api\/lookUps\/"
+        }
+    },
+    "included": [
+        {
+            "type": "country",
+            "id": "1",
+            "attributes": {
+                "name": "Select",
+                "iso2Code": "NA",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "2",
+            "attributes": {
+                "name": "Test Country 1",
+                "iso2Code": "AF",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "3",
+            "attributes": {
+                "name": "Test Country 2",
+                "iso2Code": "AL",
+                "translations": null
+            }
+        },
+        {
+            "type": "country",
+            "id": "4",
+            "attributes": {
+                "name": "Test Country 3",
+                "iso2Code": "DZ",
+                "translations": null
+            }
+        }
+    ]
+}

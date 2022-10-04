@@ -21,6 +21,6 @@ cy.intercept(
             {method: 'GET', url: '/api/lookups/job-titles*'},
             {fixture:'job_titles.json'}
         )
-
+        cy.get(':nth-child(3) > .custom-selectbox > .Select > .Select-menu-outer').invoke('text').should('include', 'Custom Extra Entry Added')
 })
 })
